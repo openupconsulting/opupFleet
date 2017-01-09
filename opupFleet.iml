@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../adempiere" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://$MODULE_DIR$/../../adempiere/JasperReports/doc" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../adempiere" />
+          <root url="file://$MODULE_DIR$/../../adempiere/JasperReports/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/base/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/client/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/extend/CostingEngine/src/test/java" />
+          <root url="file://$MODULE_DIR$/../../adempiere/extend/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/install/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/jbossfacet/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/migration/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/serverApps/src/main/servlet" />
+          <root url="file://$MODULE_DIR$/../../adempiere/serverRoot/src/main/ejb" />
+          <root url="file://$MODULE_DIR$/../../adempiere/serverRoot/src/main/server" />
+          <root url="file://$MODULE_DIR$/../../adempiere/serverRoot/src/main/servlet" />
+          <root url="file://$MODULE_DIR$/../../adempiere/sqlj/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/tools/src" />
+          <root url="file://$MODULE_DIR$/../../adempiere/webCM/src/main/servlet" />
+          <root url="file://$MODULE_DIR$/../../adempiere/zkwebui/WEB-INF/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
